@@ -1,6 +1,6 @@
 # Inventory Management System
 
-A console-based Inventory Management System built in Java with a MySQL database backend.
+A console-based Inventory Management System built in Java with a MySQL database backend. It's a simple system that I wanted to try out. It works and I tested it for any bugs.
 
 ## Features
 
